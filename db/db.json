@@ -1,0 +1,193 @@
+{
+  "parcels": [
+    {
+      "_id": 1,
+      "customer": "junction",
+      "mass": 8,
+      "deadline": "2023-11-25T12:00.000Z",
+      "status": "pending",
+      "priority": 4,
+      "location": [
+        3,
+        5
+      ]
+    },
+    {
+      "_id": 2,
+      "customer": "junction",
+      "mass": 8,
+      "deadline": "2023-11-25T12:00:00Z",
+      "status": "pending",
+      "priority": 4,
+      "location": [
+        3,
+        5
+      ]
+    },
+    {
+      "_id": 3,
+      "customer": "junction",
+      "mass": 8,
+      "deadline": "2023-11-25T12:00:00Z",
+      "status": "pending",
+      "priority": 4,
+      "location": [
+        3,
+        5
+      ]
+    },
+    {
+      "_id": 4,
+      "customer": "junction",
+      "mass": 8,
+      "deadline": "2023-11-25T12:00:00Z",
+      "status": "pending",
+      "priority": 4,
+      "location": [
+        3,
+        5
+      ]
+    },
+    {
+      "_id": 5,
+      "customer": "junction",
+      "mass": 8,
+      "deadline": "2023-11-25T12:00:00Z",
+      "status": "pending",
+      "priority": 4,
+      "location": [
+        3,
+        5
+      ]
+    },
+    {
+      "_id": 6,
+      "customer": "junction",
+      "mass": 8,
+      "deadline": "2023-11-25T12:00:00Z",
+      "status": "pending",
+      "priority": 4,
+      "location": [
+        3,
+        5
+      ]
+    },
+    {
+      "_id": 7,
+      "customer": "junction",
+      "mass": 8,
+      "deadline": "2023-11-25T12:00:00Z",
+      "status": "pending",
+      "priority": 4,
+      "location": [
+        3,
+        5
+      ]
+    },
+    {
+      "_id": 8,
+      "customer": "junction",
+      "mass": 8,
+      "deadline": "2023-11-25T12:00:00Z",
+      "status": "pending",
+      "priority": 4,
+      "location": [
+        3,
+        5
+      ]
+    },
+    {
+      "_id": 9,
+      "customer": "junction",
+      "mass": 8,
+      "deadline": "2023-11-25T12:00:00Z",
+      "status": "pending",
+      "priority": 4,
+      "location": [
+        3,
+        5
+      ]
+    },
+    {
+      "_id": 10,
+      "customer": "junction",
+      "mass": 8,
+      "deadline": "2023-11-25T12:00:00Z",
+      "status": "pending",
+      "priority": 4,
+      "location": [
+        3,
+        5
+      ]
+    }
+  ],
+  "chargingStations": [
+    {
+      "_id": 1,
+      "name": "station 1",
+      "available": true
+    },
+    {
+      "_id": 2,
+      "name": "station 2",
+      "available": true
+    },
+    {
+      "_id": 3,
+      "name": "station 3",
+      "available": true
+    }
+  ],
+  "robots": [
+    {
+      "_id": 1,
+      "parcel": null,
+      "lastChargeTime": "2023-11-25T12:00:00Z",
+      "available": true,
+      "location": [
+        3,
+        5
+      ]
+    },
+    {
+      "_id": 2,
+      "parcel": 3,
+      "lastChargeTime": "2023-11-25T12:00:00Z",
+      "available": false,
+      "location": [
+        2,
+        7
+      ]
+    },
+    {
+      "_id": 3,
+      "parcel": null,
+      "lastChargeTime": "2023-11-25T12:00:00Z",
+      "available": true,
+      "location": [
+        1,
+        1
+      ]
+    },
+    {
+      "_id": 4,
+      "parcel": null,
+      "lastChargeTime": "2023-11-25T12:00:00Z",
+      "available": true,
+      "location": [
+        2,
+        1
+      ]
+    },
+    {
+      "_id": 5,
+      "parcel": 4,
+      "lastChargeTime": "2023-11-25T12:00:00Z",
+      "available": false,
+      "location": [
+        3,
+        3
+      ]
+    }
+  ]
+}
